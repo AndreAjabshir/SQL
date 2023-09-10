@@ -55,6 +55,6 @@ FROM (
 ) subquery;
 
 /*
-Overall this data represents general business needs/queries. There were some oddities in the data. There was only purchase per customer,
-so CSV and customer repeat purchase rate didn not see much use here. This practice was to showcase SQL queries possibilites. 
+Overall this data represents general business needs/queries. There were some oddities in the data. There was only one purchase per customer,
+so CSV and customer repeat purchase rate did not see much use here. This practice was to showcase SQL query possibilites. 
 */
